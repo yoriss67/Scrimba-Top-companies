@@ -12,7 +12,7 @@ export default [
         sales: "$260 Billion",
         foundation: "April 1, 1976",
         location: "Cupertino, California, USA",
-        googleMapUrl: "https://goo.gl/maps/Fg5ByxE5Kjv",
+        googleMapUrl: "https://goo.gl/maps/ruX5Rt7LZeScNUuD7",
         description: "Leading technology company known for its iPhone, iPad, and Mac lines of products.",
         imageUrl: '/images/apple2.jpg'
     },
@@ -24,7 +24,7 @@ export default [
         sales: "$110 Billion",
         foundation: "April 4, 1975",
         location: "Redmond, Washington, USA",
-        googleMapUrl: "https://goo.gl/maps/fQx4N6SSbJQ2",
+        googleMapUrl: "https://maps.google.com/?q=microsoft+headquarters",
         description: "American multinational technology company known for its Windows operating system and Office suite of productivity software.",
         imageUrl: '/images/microsoft.jpg'
     },
@@ -36,7 +36,7 @@ export default [
         sales: "$180 Billion",
         foundation: "July 5, 1994",
         location: "Seattle, Washington, USA",
-        googleMapUrl: "https://goo.gl/maps/U6f5N5G5uvN2",
+        googleMapUrl: "https://maps.google.com/?q=amazon+headquarters",
         description: "American multinational conglomerate focused on e-commerce, cloud computing, and artificial intelligence.",
         imageUrl: '/images/amazon.jpg'
     },
@@ -48,7 +48,7 @@ export default [
         sales: "$100 Billion",
         foundation: "September 4, 1998",
         location: "Mountain View, California, USA",
-        googleMapUrl: "https://goo.gl/maps/rQQhKv5e5z62",
+        googleMapUrl: "https://goo.gl/maps/162uytkfLP3zpQxF7",
         description: "American multinational conglomerate that specializes in Internet-related services and products.",
         imageUrl:'/images/google2.jpg'
         },
